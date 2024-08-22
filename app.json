@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "React-Native_practice-App",
-    "slug": "React-Native_practice-App",
+    "name": "Asni",
+    "slug": "Asni",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "Asni",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
