@@ -1,0 +1,7 @@
+
+export default{
+  BACKGROUND:'#B8BFC1',
+  PRIMARY:'#1A2526',
+  SECONDARY:'#CACA5D',
+  GRAY:"#768886"
+};
