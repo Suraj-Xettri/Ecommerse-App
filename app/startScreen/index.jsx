@@ -1,6 +1,6 @@
 import { View,Pressable, Text, Image, StyleSheet } from "react-native";
 import React from "react";
-import Colors from './../../constants/Colors'
+import Colors from '../../constants/Colors'
 const LoginScreen = () => {
   return (
     <View style={styles.container}>
