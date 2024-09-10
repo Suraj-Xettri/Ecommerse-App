@@ -19,6 +19,7 @@ const Tablayout = () => {
       >
         <Tabs.Screen name="Home" />
         <Tabs.Screen name="Profile"/>
+        <Tabs.Screen name="Explore"/>
       </Tabs>
     </>
   );
